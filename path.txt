@@ -1,0 +1,12 @@
+Setup enviorment
+-conda create -n ladder-stock python=3.9
+
+Create React App Start Up Framework
+-create-react-app ladder-stock
+
+npm install --save react-router
+npm install --save react-router-dom
+
+npm install react-bootstrap bootstrap
+
+npm install --save react-chartjs-2 chart.js
